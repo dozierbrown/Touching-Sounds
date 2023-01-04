@@ -37,7 +37,7 @@ Use `pip install <package>` to install the following dependencies
 ```
 python3 TouchingSounds.py
 ```
-* Whenever you run the program, a dialogue box should open requesting an input file. Please input a short sound file for the application to process. Once the audio is processed, a screen with a spectrogram will be produced. 
+* Whenever running the program, a dialogue box will open requesting an input file. Upload a short sound file for the application to process. [Sample](https://github.com/dozierbrown/Touching-Sounds/tree/main/Samples) files have been provided. Once the audio is processed, a screen with a spectrogram will be produced. 
 
 * Here are the current controls for exploring the spectrogram and its formant.
 
