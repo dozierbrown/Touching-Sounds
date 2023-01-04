@@ -39,7 +39,8 @@ python3 TouchingSounds.py
 ```
 * Whenever running the program, a dialogue box will open requesting an input file. Upload a short sound file for the application to process. [Sample](https://github.com/dozierbrown/Touching-Sounds/tree/main/Samples) files have been provided. Once the audio is processed, a screen with a spectrogram will be produced. 
 
-* Here are the current controls for exploring the spectrogram and its formant.
+## Controls
+Here are the current controls for exploring the spectrogram and its formant.
 
 * Press "b" for SNR sound output of intensity at the cursor.
 
