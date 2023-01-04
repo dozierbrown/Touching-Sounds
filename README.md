@@ -13,14 +13,30 @@ This Repository Holds the Source Code and Paper of an Application built for the 
 ## Declaration
 A significant portion of this application's functionality was conceptualized by Dr. Margaret Schedel and Nikhil Vohra. I would like to acknowledge their contributions to the sonification project in addition Dr. Marie Huffman, Dr. Ellen Broselow, Alex Yeung, Heather Weston, Samantha Bravo, and Namyoung Um. 
 
+## Dependencies
+This software requires several Python packages to be preinstalled.
+Use `pip install <package>` to install the following dependencies
+* praat-parselmouth 
+* numpy
+* matplotlib
+* seaborn
+* PIL
+* pyttsx3
+* gtts
+* pyaudio
+* pydub
+
 ## Instructions for Use
 
 * Download the associated code package and move it to your desired location. For instance,
 ```
 ~/pathtodirectory/Touching-Sounds
 ```
-Once downloaded, run it in a Python Environment. Alternatively, the `.py` file will run on its own.
-
+* Once downloaded, run it in a Python Environment. Alternatively, the `.py` file will run on its own.
+* Simply run from the command line
+```
+python3 TouchingSounds.py
+```
 * Whenever you run the program, a dialogue box should open requesting an input file. Please input a short sound file for the application to process. Once the audio is processed, a screen with a spectrogram will be produced. 
 
 * Here are the current controls for exploring the spectrogram and its formant.
@@ -42,3 +58,4 @@ Once downloaded, run it in a Python Environment. Alternatively, the `.py` file w
 * Press "p" for speech output of current time and frequency
 
 * Press "s" to save current figure as a PNG
+
