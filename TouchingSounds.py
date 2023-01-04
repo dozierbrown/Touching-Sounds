@@ -29,8 +29,6 @@ sns.set() # Use seaborn's default style to make attractive graphs
 
 #Plot nice figures using Python's "standard" matplotlib library
 #Prompt User for File Input
-root = tk.Tk()
-root.withdraw()
 
 file_path = filedialog.askopenfilename()
 #Create Sound Object from Audio File
