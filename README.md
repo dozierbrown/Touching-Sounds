@@ -25,6 +25,7 @@ Use `pip install <package>` to install the following dependencies
 * gtts
 * pyaudio
 * pydub
+* ffmpeg
 
 ## Instructions for Use
 
