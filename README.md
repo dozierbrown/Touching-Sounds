@@ -2,7 +2,7 @@
 This Repository Holds the Source Code and Paper of an Application built for the Touching Sounds Project. This Software Sonifies Praat Formant Data and Allows Users to Aubibly Interpret Spectrogram Information.
 
 ## Paper and Presentations
-* Current draft of paper is listed above as "Touching_Sounds_Background.pdf"
+* Current draft of paper is listed above as [Touching_Sounds_Background.pdf](https://github.com/dozierbrown/Touching-Sounds/blob/main/Touching_Sounds_Background.pdf)
 * Touching Sounds Interactive Exhibit initially presented in the Frank Melville Jr. Library's Central Reading Room at SUNY Stony Brook University in Spring 2022
 
 ## Authors
