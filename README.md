@@ -11,7 +11,7 @@ This Repository Holds the Source Code and Paper of an Application built for the 
 <sup>1</sup>: Department of Music, Stony Brook University.
 
 ## Declaration
-A significant portion of this application's functionality was conceptualized by Dr. Margaret Schedel and Nikhil Vohra. I would like to acknowledge their contributions to the sonification project in addition Dr. Marie Huffman, Dr. Ellen Broselow, Alex Yeung, Heather Weston, Samantha Bravo, and Namyoung Um. 
+A significant portion of this application's functionality was conceptualized by Dr. Margaret Schedel and Nikhil Vohra. I would like to acknowledge their contributions to the sonification project in addition to Dr. Marie Huffman, Dr. Ellen Broselow, Alex Yeung, Heather Weston, Samantha Bravo, and Namyoung Um. 
 
 ## Dependencies
 This software requires several Python packages to be preinstalled.
