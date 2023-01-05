@@ -20,8 +20,6 @@ Use `pip install <package>` to install the following dependencies
 * numpy
 * matplotlib
 * seaborn
-* PIL
-* pyttsx3
 * gtts
 * pyaudio
 * pydub
@@ -36,7 +34,7 @@ Use `pip install <package>` to install the following dependencies
 * Once downloaded, run it in a Python Environment. Alternatively, the `.py` file will run on its own.
 * Simply run from the command line
 ```
-python3 TouchingSounds.py
+python3 main.py
 ```
 * Whenever running the program, a dialogue box will open requesting an input file. Upload a short sound file for the application to process. [Sample](https://github.com/dozierbrown/Touching-Sounds/tree/main/Samples) files have been provided. Once the audio is processed, a screen with a spectrogram will be produced. 
 
