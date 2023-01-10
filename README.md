@@ -21,7 +21,6 @@ Use `pip install <package>` to install the following dependencies
 * matplotlib
 * seaborn
 * gtts
-* pyaudio
 * pydub
 * ffmpeg
 
